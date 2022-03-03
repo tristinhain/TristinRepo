@@ -1,0 +1,17 @@
+body {color: indigo;
+background-color: Gainsboro;
+font-family: arial, helvetica, sans-serif; }
+/* CSS inheritance rules indicate that all elements inside the body will inherit the color and font-family properties that I set here on this BIG container element */
+
+/*body section section { background-image: linear-gradient(red, orange, yellow, green, blue, indigo, violet); padding:2em;}
+body section {background-image: url("images/littleNewt.jpg"); padding:2em;}*/
+
+p {padding:1em; line-height:2em;}
+figure {
+    width:30%;
+    
+}
+figure img{
+    width: 50%;
+    max-width:500px;
+}
